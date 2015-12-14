@@ -1,7 +1,7 @@
 name: KyleShawn
 favicon: null
-layout_spectrum: 0.26688812603242695
-typography_spectrum: 0.6927403488662094
+layout_spectrum: 0.15838
+typography_spectrum: 0.55319
 title: taking it ten seconds at a time
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.39849373581819236
+    - '#14141c'
+    - '#8d9194'
+    - '#b8bdc3'
+    - '#6d6d6b'
+    - '#127bc5'
+  brandStrength: 0.3125
   lightness: 0.6780609942506999
-  saturation: 0.20664417557418346
+  saturation: 0.125
   rhythmicContrast: 0.021669939160346985
 purpose: []
